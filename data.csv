@@ -1,0 +1,52 @@
+office
+'Lockhead','New York',50356
+'Microsoft','Fort Meade',100242
+'Mcdonalds','Columbia',2032
+'Supreme','Los Angeles',3240
+'BurgerKing','New Orleans',6000
+'Chase','Chicago',40000
+'BankOfAmerica','St.Louis',38970
+'WellsFargo','Santa Monica',22110
+'Google','San Diego',21239
+'Facebook','San Francisco',28192
+'Dell','Palo Alto',9550
+'Pepsi','Washington DC',12211
+agency
+3452,'DoD','12 Marching Lane','Washington DC','123-456-7890'
+5425,'FCC','10 Money Street','New York','555-555-5555'
+5910,'ACF','7541 South Madison Street','Lanham','321-548-0715'
+3728,'USAID','7181 Sugar Ave','Lumberton','296-251-3766'
+1029,'CIA','2 High Ridge Lane','Drexel Hill','935-581-7351'
+8271,'FBI','7128 Lincoln Street','Loganville','286-649-2016'
+6363,'FDA','9157 West Canterbury Dr.','Erie','849-799-0092'
+2730,'FTC','69 Division Street','Los Banos','979-992-4041'
+8102,'IRS','532 N. Maiden St.','Greenville','748-971-9615'
+4990,'NSA','6 South Wild Horse Drive','Atwater','747-889-4787'
+3733,'NHI','8367 Walnut St.','Erlanger','947-579-8839'
+2901,'MVA','755 West Shub Farm Drive','Elizabethtown','702-573-7629'
+manage
+1,'Lockhead','2019-11-23',2000
+3,'Mcdonalds','2020-12-25',3232
+2,'Supreme','2019-05-07',6749
+4,'BurgerKing','2021-04-29',1029
+5,'Chase','2021-11-12',4829
+6,'BankOfAmerica','2022-09-16',2819
+7,'WellsFargo','2022-11-29',5849
+8,'Google','2020-11-26',1910
+9,'Facebook','2021-01-11',2873
+10,'Dell','2021-06-14',58605
+11,'Pepsi','2022-01-28',37465
+12,'Microsoft','2022-11-16',28192
+agreements
+3452,1
+5425,3
+5910,2
+3728,4
+1029,5
+8271,6
+6363,7
+2730,8
+8102,9
+4990,10
+3733,11
+2901,12

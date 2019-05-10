@@ -1,0 +1,5 @@
+
+select * from office;
+select rental_id from manage;
+insert into office(office_name,city,square_footage)values('White House', 'DC',100000);
+Delete from office where office_name='White House'
